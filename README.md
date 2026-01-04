@@ -50,7 +50,7 @@ After around 10 epochs, training loss keeps decreasing while validation loss sta
 ##  Sample Predictions
 Below are sample predictions made by the trained model:
 
-![Predictions](images/predictions.png)
+![Predictions](images/Sample_prediction.png)
 
 ---
 
@@ -58,4 +58,4 @@ Below are sample predictions made by the trained model:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/handwritten-digit-classification-ann.git
+git clone https://github.com/MohdSaadMa07/handwritten-digit-classification-ann
