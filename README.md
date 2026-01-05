@@ -44,7 +44,7 @@ This project implements a handwritten digit classification system using an Artif
 ### Loss Curve
 ![Loss](images/loss_plot.png)
 
-After around 10 epochs, training loss keeps decreasing while validation loss starts increasing, indicating overfitting. This happens because ANNs do not preserve spatial features in images. CNNs handle this better.”
+After around 10 epochs, training loss keeps decreasing while validation loss starts increasing, indicating overfitting. This happens because ANNs do not preserve spatial features in images. CNNs handle this better.
 ---
 
 ##  Sample Predictions
